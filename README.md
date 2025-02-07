@@ -77,6 +77,8 @@ A resource center for articles, books, videos, and tools to support continuous l
 
 [SQL Practice](https://www.sql-practice.com/) 
 
+[Data Lemur](https://datalemur.com/sql-tutorial/intro-to-sql)
+
 [SQL Mystery Game](https://mystery.knightlab.com/)
 
 [SQL Bolt](https://sqlbolt.com/)
