@@ -97,6 +97,8 @@ A resource center for articles, books, videos, and tools to support continuous l
 
 [Intro to SQL](https://campus.datacamp.com/courses/introduction-to-sql/relational-databases?ex=8) - Data Camp
 
+[Data Engineer](https://www.dataquest.io/path/data-engineering/) - Dataquest
+
 ## BI Tooling
 
 [Tableau](https://www.tableau.com/learn)
