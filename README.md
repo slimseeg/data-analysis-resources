@@ -95,6 +95,8 @@ A resource center for articles, books, videos, and tools to support continuous l
 
 [Intro to Google Sheets](https://app.pluralsight.com/library/courses/google-sheets-2/table-of-contents) - Pluralsight
 
+[Intro to SQL](https://campus.datacamp.com/courses/introduction-to-sql/relational-databases?ex=8) - Data Camp
+
 ## BI Tooling
 
 [Tableau](https://www.tableau.com/learn)
